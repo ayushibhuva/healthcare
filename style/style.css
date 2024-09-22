@@ -1,0 +1,208 @@
+body{
+	
+	background:#ccc;
+}
+.float_clear
+{
+	float:none;
+	clear:both;
+}
+.float_left{
+	
+	float:left;
+}
+.float_right{
+	
+	float:right;
+}
+td{
+	padding:1px;
+	width:100px;
+	background:#e0ffff;
+}
+th{
+	background:black;
+	color:white;
+}
+font-family{
+	font-family:Arial Rounded MT;
+
+}
+a{
+text-decoration: none;
+    color:#000;
+}
+#container
+{
+	width: 1050px;
+	margin:0px;
+	 margin-left: 13%;
+	margin-right: 13%;
+	background:#fff;
+	
+	--background-image-repeat: unset;
+}
+
+#header
+{	
+	margin: 0px auto;
+    font-size:30pt;
+	padding:10px;
+	color:#444;
+	height: 80px;
+    background:#fff;
+    
+}
+#logo{
+	background: white;
+	
+}
+#navbar{
+	padding:10px;
+	background:#00bfff;
+	text-align: right;
+	
+	
+}
+#navbar a{
+	
+	text-decoration: none;
+    color:#000;
+	font-family:Britannic;
+    padding: 10px;
+    line-height: 20pt;
+	
+
+}
+#navbar a:hover{
+	color:fff;
+}
+
+#contant {
+	min-height:460px;
+	--padding:20px;
+background-image:url("../image/wp3.png");
+	background-repeat:no-repeat;
+	background-size:100% 100%;
+	   font-family:Arial Rounded MT;
+
+}
+
+#footer
+{
+	margin: auto;
+    padding: 15px; 
+	background:#00bfff;
+	text-align: center;
+	font-family:cooper;
+	color:black;
+}
+
+#title{
+   font-size: 18px;
+   font-family:cooper;
+
+}
+#homepage{
+	height: 400px;
+	font-family:cooper;
+	
+	padding:30px;
+		
+}
+#homepage .button{
+	
+	font: caption;
+    text-align: center;
+	font-family:Arial Rounded MT;
+    padding:8px;
+    margin: 0px;
+    border-style: solid;
+    border-radius: 8px;
+    background: #87ceeb;
+}
+
+#login{
+	padding:40px;
+}
+ #login1{
+ font-size:15px;
+ font-family:Arial Rounded MT;
+ }
+#aboutus{
+	padding:60px;
+	font-family:cooper;
+}
+#reg .btn{
+	font: caption;
+    text-align: center;
+    padding:10px;
+    margin: 0px;
+	width:80px;
+	height:30px;
+	color:black;
+    border-style: none;
+    border-radius: 8px;
+    background: #87ceeb;
+}
+
+#doctor_homepage td{
+	width:130px;
+	height:90px;
+	color:black;
+	background: #87ceeb;
+	border:solid 4px black;
+    border-radius: 8px;
+	text-align:center;
+}
+#doctor_homepage th
+{
+	border:solid 3px black;
+    border-radius: 8px;
+	color:black;
+	background: #87ceeb;
+
+}
+#doctor_homepage table{
+ padding: 100px;
+}
+.doctor {
+	background:#fff;
+}
+/*#aboutus{
+	border-radius: 8px;
+	text-align: center;
+	font-family:Arial Rounded MT;
+}*/
+.homeimg{
+	padding:10px;
+}
+.btn{
+	font: caption;
+    text-align: center;
+	font-family:Arial Rounded MT;
+	padding: 2px;
+    margin: 0px;
+	width:80px;
+	height:40px;
+    border-style: none;
+    border-radius: 8px;
+   background: #87ceeb;
+    position:pointer;
+	
+}
+.tbltitle{
+	background:white;
+	color:black;
+}
+
+.bgblue{
+
+	background:#000;
+
+}
+.bggreen{
+
+background:#000;
+
+}
